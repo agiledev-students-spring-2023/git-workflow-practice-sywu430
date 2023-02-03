@@ -13,5 +13,3 @@ Reinforcement Learning with Humans Feedback can train the ChatGPT to generate an
 ## Summary of Article
 Currently, Siri and Alexa only deal with commands that are very simple. However, the author of the article wanted to change his smarthome so that he can communnicate in plain English such as "Just noticed that I’m recording this video in the dark in the office.
 Can you do something about that?"
-
-*ChatGPT demonstrates the strength and potentials of AI in terms of its application within people's life. However, its power could be concerning sometimes (Wei Luo yl7408)*
