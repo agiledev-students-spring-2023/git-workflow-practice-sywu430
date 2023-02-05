@@ -10,7 +10,7 @@ ChatGPT is a significant language model chatbot developed by Open AI based on GP
 The language model performs to predict the next term in the form of words.
 Reinforcement Learning with Humans Feedback can train the ChatGPT to generate answers satisfactory to humans.
 
-## Summary of Article
+## Summary of the Article
 Currently, Siri and Alexa only deal with commands that are very simple. However, the author of the article wanted to change his smarthome so that he can communnicate in plain English such as "Just noticed that I’m recording this video in the dark in the office.
 Can you do something about that?"
 
